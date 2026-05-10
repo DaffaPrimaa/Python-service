@@ -2,7 +2,7 @@
 
 ## Prasyarat
 
-- Python 3.8+
+- Python 3.13.3
 - Docker (untuk Milvus)
 - **Windows:** [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/downloads/) → pilih "Desktop development with C++"
 - **macOS:** `xcode-select --install`
